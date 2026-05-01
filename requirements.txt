@@ -1,0 +1,13 @@
+python-docx
+pypdf
+numpy
+pandas
+scipy
+scikit-learn
+xgboost
+lightgbm
+shap
+matplotlib
+seaborn
+torch
+torch-geometric

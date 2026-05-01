@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter / checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+
+# Local envs
+.venv/
+venv/
+env/
+
+# Data / outputs
+data/
+outputs/
+results/
+artifacts/
+manifests/
+*.parquet
+*.pt
+*.pth
+*.bin
+*.joblib
+*.pkl
+
+# Kaggle / local temporary files
+kaggle.json
+tmp/
+temp/
